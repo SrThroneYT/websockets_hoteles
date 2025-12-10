@@ -8,5 +8,10 @@
       "id": 2,
       "name": "HNUBE",
       "url": "https://hnube.org"
+    },
+    {
+      "id": 3,
+      "name": "DESCUBREGO",
+      "url": "https://descubrego.net"
     }
 ]
