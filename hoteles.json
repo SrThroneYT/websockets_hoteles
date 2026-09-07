@@ -25,8 +25,12 @@
       "url": "https://hebzohotel.es"
     },
     {
-      "id": 5,
+      "id": 6,
       "name": "RetraX",
       "url": "http://26.88.224.147"
+    },{
+      "id": 6,
+      "name": "HABBONIX",
+      "url": "https://habbonix.com"
     }
 ]
